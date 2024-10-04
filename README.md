@@ -43,18 +43,12 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** specializi
 
 ---
 
-## 📈 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
-
----
 
 ## 📫 How to Reach Me
 
 - Email: [berkcanalkan978@proton.me](mailto:berkcanalkan978@proton.me)
 - LinkedIn: [linkedin.com/in/berkcan-alkan-8907a2167](https://www.linkedin.com/in/berkcan-alkan-8907a2167/)
+- X (twitter): [https://x.com/tomaengineer](https://x.com/tomaengineer)
   <!-- 
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
    -->
