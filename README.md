@@ -1,4 +1,4 @@
-# Hi there, I'm [Berkcan]! 👋
+# Hi there, I'm Berkcan! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/sytn)
@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I'm a passionate **Frontend Developer** specializing in **React.js**, and I love building beautiful, user-centric web applications. I enjoy solving real-world problems with code and learning new technologies along the way.
 
 ---
-
+<!--
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: [Your Current Project Name](https://github.com/yourusername/yourproject)
@@ -70,4 +70,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
