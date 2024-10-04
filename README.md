@@ -42,18 +42,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** specializi
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
-<!--
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post-1)
-- [Post Title 2](https://yourblog.com/post-2)
-- [Post Title 3](https://yourblog.com/post-3)
-<!-- BLOG-POST-LIST:END -->
-
-You can check out my [Blog](https://yourblog.com) for more articles and tutorials.
--->
----
 
 ## 📈 GitHub Stats
 
@@ -65,10 +53,11 @@ You can check out my [Blog](https://yourblog.com) for more articles and tutorial
 
 ## 📫 How to Reach Me
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)
+- Email: [berkcanalkan978@proton.me](mailto:berkcanalkan978@proton.me)
+- LinkedIn: [linkedin.com/in/berkcan-alkan-8907a2167](https://www.linkedin.com/in/berkcan-alkan-8907a2167/)
+  <!-- 
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
+   -->
 ---
 
 Thanks for visiting! 😊
