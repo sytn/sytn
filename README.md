@@ -5,3 +5,4 @@
 <!--[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=portfolio&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)-->
 
 **Software Engineer**
+**Python** **Go** **Linux**
